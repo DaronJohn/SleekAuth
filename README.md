@@ -2,7 +2,8 @@
 
 ---
 
-**SleekAuth** is a modern, responsive authentication form template designed for seamless user registration and login experiences. Featuring a sleek design, stylish blurred backgrounds, and clean, minimalist input fields, this template is perfect for any web application looking to provide an elegant and intuitive user interface.
+**SleekAuth** is a modern, responsive authentication form template designed for seamless user registration and login experiences. Featuring a sleek design, stylish blurred backgrounds, and clean, minimalist input fields, this template is perfect for any web application looking to provide an elegant and intuitive user interface. **To view**
+https://daronjohn.github.io/SleekAuth/
 
 **Features:**
 - **Responsive Design:** Optimized for all screen sizes, ensuring a smooth experience on both mobile and desktop devices.
